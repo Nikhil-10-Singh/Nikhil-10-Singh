@@ -29,7 +29,19 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,jupyter,vscode" alt="My Tech Stack" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 <p align="center">
@@ -42,7 +54,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **Sports Data Analytics Dashboard** | Analyzed sports data to identify player performance metrics and trends through data cleaning, validation, SQL analysis, and interactive dashboards. | Python · Pandas · SQL · Power BI |
+| [**T20 World Cup Analytics Dashboard**](https://github.com/Nikhil-10-Singh/T20-World-Cup-Analytics) | Analyzed sports data to identify player performance metrics and trends through data cleaning, validation, SQL analysis, and interactive dashboards. | Python · Pandas · SQL · Power BI |
 | **Sales KPI Analytics Dashboard** | Analyzed transactional sales data, developed KPI dashboards, performed validation and reconciliation checks, and generated business trend insights. | SQL · Excel · Pivot Tables |
 | **Data Analytics Internship** | Worked with 350+ records involving data extraction, cleaning, validation, data quality checks, reporting, and Power BI/Excel dashboards for KPI tracking. | Power BI · Excel · Data Cleaning · Data Validation |
 
@@ -65,7 +77,7 @@
 
 ### Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil-10-Singh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
